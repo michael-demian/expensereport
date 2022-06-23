@@ -114,7 +114,7 @@ The ExpenseReport example currently exists in the following languages:
 - Provide a level 2 challenge for creating an HTML report besides the Plain Text report.
 
 ## Solutions
-**Warning** The solutions branch will be rebased!
+**Warning** The solutions branch will be rebased and force-pushed!
 
 Currently, solutions exist in the following languages:
 - [Ada](expensereport-ada/)
